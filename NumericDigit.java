@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.io.
+import java.io.*;
 public class NumericDigit
 {
 	public static void main(String[] args) 
